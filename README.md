@@ -36,7 +36,7 @@ Backend developer focused on **Java & Spring Boot**, building real-world applica
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
 
 ### 🎟️ Bonos App (Fullstack)
 
@@ -57,6 +57,30 @@ Fullstack application for managing service vouchers.
 
 🔗 Backend / Repo:  
 👉 https://github.com/ChristianBihurriet/bonos-app
+---
+
+### 🏠 Homelab DevOps (Infrastructure Project)
+
+Real-world homelab environment designed to simulate a production-like setup using Docker, monitoring, networking and service orchestration.
+
+**Tech:**
+- Docker & Docker Compose
+- Nginx Proxy Manager (reverse proxy)
+- Prometheus + Grafana + Node Exporter (monitoring)
+- Pi-hole (DNS & ad-blocking)
+- Mosquitto (MQTT)
+- PostgreSQL
+- Tailscale (secure remote access)
+
+**Highlights:**
+- Multi-service containerized environment
+- Centralized monitoring stack
+- Internal DNS + reverse proxy architecture
+- Secure remote access via VPN
+- Separation of concerns between services
+
+🔗 Repo:  
+👉 https://github.com/ChristianBihurriet/homelab
 
 ---
 
