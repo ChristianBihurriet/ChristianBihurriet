@@ -57,6 +57,7 @@ Fullstack application for managing service vouchers.
 
 🔗 Backend / Repo:  
 👉 https://github.com/ChristianBihurriet/bonos-app
+
 ---
 
 ### 🏠 Homelab DevOps (Infrastructure Project)
