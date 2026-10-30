@@ -1,114 +1,58 @@
 # 👋 Hi, I'm Christian
 
-Backend developer focused on **Java & Spring Boot**, building real-world applications and working towards my first professional role.
+**Software Developer | Programming Instructor | Computer Engineering Student**
 
----
+I'm a software developer with a focus on **Java, Spring Boot and backend development**. I enjoy turning real problems into maintainable applications, automating repetitive work and understanding how systems fit together.
 
-## 🚀 About me
+I've worked on business software integrations and currently teach software development at **CESUR**, while pursuing a **Computer Engineering degree at UOC**. Teaching keeps me close to the fundamentals; building projects keeps me exploring new tools and approaches.
 
-- 🎓 Currently finishing **DAM (Multiplatform Application Development)**
-- 💻 Focused on **backend development with Java + Spring Boot**
-- 🧠 Building real projects to strengthen my portfolio
-- 🎯 Goal: get my first role as a **Java backend developer**
-- 🌍 Interested in **DevOps, cloud and scalable systems**
+## 💻 What I work with
 
----
+| Area | Technologies |
+| --- | --- |
+| Backend | Java 21, Spring Boot, Spring Security, Spring Data JPA / Hibernate, REST APIs |
+| Web | JavaScript, HTML, CSS, Bootstrap |
+| Data | PostgreSQL, SQL |
+| Tooling & infrastructure | Git, GitHub, Docker, Docker Compose, Linux, Nginx, Maven, Swagger / OpenAPI |
+| Also exploring | Python, Node.js, GitHub Actions, cloud infrastructure, local LLMs |
 
-## 🛠️ Tech Stack
+## 🚀 Selected projects
 
-**Backend**
-- Java 21
-- Spring Boot
-- Spring Security (JWT)
-- Spring Data JPA (Hibernate)
+### 🎟️ [Bonos App](https://github.com/ChristianBihurriet/bonos-app)
+A full-stack application for managing service vouchers, built around a Java / Spring Boot REST API, PostgreSQL and a JavaScript frontend.
 
-**Frontend**
-- JavaScript (ES Modules)
-- HTML & CSS
+- JWT-based authentication, password hashing and request validation
+- CRUD workflows, centralized error handling and API documentation
+- Containerized services with Docker Compose
 
-**Database**
-- PostgreSQL
+### 🧩 [PPTX TemplateX](https://github.com/ChristianBihurriet/pptx-templatex)
+A template-driven PowerPoint generation tool built to streamline preparation of programming lessons.
 
-**Tools & DevOps**
-- Docker & Docker Compose
-- Git & GitHub
-- REST APIs (Swagger / OpenAPI)
+- Python CLI and structured JSON inputs
+- Reusable slide layouts, validation and configurable themes
+- A workflow designed to integrate with locally hosted language models
 
----
+### 🏠 [HomeLab](https://github.com/ChristianBihurriet/HomeLab)
+A hands-on environment for learning infrastructure and operating self-hosted services.
 
-## 📌 Featured Projects
+- Docker-based services and reverse proxy configuration
+- Internal DNS, remote access and networking
+- Experimentation with monitoring and service deployment
 
-### 🎟️ Bonos App (Fullstack)
+## 👨‍🏫 Experience & education
 
-Fullstack application for managing service vouchers.
+- **Software Development Instructor — CESUR (current):** Teaching Java programming, databases, development tools and web technologies in vocational software development programs.
+- **Software development experience — Ignos:** Worked with Odoo-based business applications, APIs, JavaScript, Python and PostgreSQL.
+- **Computer Engineering — Universitat Oberta de Catalunya (UOC):** Currently studying.
+- **Higher Technician in Multiplatform Application Development (DAM):** Completed in 2026.
 
-**Tech:**
-- Spring Boot + JWT authentication
-- PostgreSQL
-- JavaScript frontend
-- Dockerized deployment
+## 🔎 Current interests
 
-**Features:**
-- CRUD operations
-- Authentication & authorization
-- REST API
-- Validation & error handling
-- Layered architecture
+Backend architecture, testing and CI/CD, DevOps, cloud technologies, developer tooling and practical uses of **local AI models**.
 
-🔗 Backend / Repo:  
-👉 https://github.com/ChristianBihurriet/bonos-app
+I particularly enjoy projects where software solves a problem I actually encounter — whether that's managing vouchers, running a homelab or generating teaching materials.
 
----
+## 📫 Connect
 
-### 🏠 Homelab DevOps (Infrastructure Project)
-
-Real-world homelab environment designed to simulate a production-like setup using Docker, monitoring, networking and service orchestration.
-
-**Tech:**
-- Docker & Docker Compose
-- Nginx Proxy Manager (reverse proxy)
-- Prometheus + Grafana + Node Exporter (monitoring)
-- Pi-hole (DNS & ad-blocking)
-- Mosquitto (MQTT)
-- PostgreSQL
-- Tailscale (secure remote access)
-
-**Highlights:**
-- Multi-service containerized environment
-- Centralized monitoring stack
-- Internal DNS + reverse proxy architecture
-- Secure remote access via VPN
-- Separation of concerns between services
-
-🔗 Repo:  
-👉 https://github.com/ChristianBihurriet/homelab
-
----
-
-## 📈 Currently learning
-
-- Advanced Spring Boot
-- System design fundamentals
-- CI/CD basics (GitHub Actions)
-- Cloud fundamentals (AWS)
-
----
-
-## 🧠 Next steps
-
-- Improve current projects (pagination, filters, roles)
-- Deploy fullstack apps (frontend + backend + DB)
-- Build a stronger DevOps foundation
-
----
-
-## 📫 Contact
-
-- LinkedIn: https://linkedin.com/in/christian-bihurriet
-- GitHub: https://github.com/ChristianBihurriet
-
----
-
-## ⚡ Fun fact
-
-I prefer building real projects over tutorial-based learning.
+- [LinkedIn](https://linkedin.com/in/christian-bihurriet)
+- [GitHub](https://github.com/ChristianBihurriet)
